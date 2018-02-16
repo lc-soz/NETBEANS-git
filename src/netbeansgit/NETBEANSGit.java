@@ -18,6 +18,8 @@ public class NETBEANSGit {
         System.out.println("To test");
         System.out.println("MERGE!!!!");
         System.out.println("Just testing...");
-    }
-    
+        
+        System.out.println("Mas o que!?");
+        System.out.println("Estou mudando uma versão anterior!!!");
+    }    
 }
