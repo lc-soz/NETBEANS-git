@@ -19,11 +19,7 @@ public class NETBEANSGit {
         System.out.println("MERGE!!!! Isso foi alterado!!!");
         System.out.println("Just testing...");
         
-        System.out.println("Olha isso aqui!");
-        System.out.println("Isso é novo!!");
-        
-        System.out.println("Por enquanto commit simples!!!");
-                
-    }
-    
+        System.out.println("Mas o que!?");
+        System.out.println("Estou mudando uma versão anterior!!!");
+    }    
 }
