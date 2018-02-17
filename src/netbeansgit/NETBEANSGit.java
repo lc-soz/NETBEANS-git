@@ -16,13 +16,13 @@ public class NETBEANSGit {
      */
     public static void main(String[] args) {
         System.out.println("To test");
-        System.out.println("MERGE!!!! Isso foi alterado!!! [MASTER]");
+        System.out.println("MERGE!!!! Alterando isso aqui na Branch");
         System.out.println("Just testing...");
         
         System.out.println("Mas o que!?");
         System.out.println("Estou mudando uma versão anterior!!!");
         
-        System.out.println("Colocando aqui pela TRETA [MASTER]");
-        System.out.println("Como você é zuero cara [MASTER]");
-    }    
+        System.out.println("Fazendo alteração em outro ponto, na verdade adição agora mas vai virar adição [BRANCH]");
+        System.out.println("Mais coisa!!!");
+    }
 }
