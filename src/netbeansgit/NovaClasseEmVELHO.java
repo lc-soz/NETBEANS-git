@@ -9,12 +9,8 @@ package netbeansgit;
  *
  * @author lc-soz
  */
-public class OlhaArquivoNOVO {
+public class NovaClasseEmVELHO {
     public static void main(String[] args) {
-        System.out.println("MAS ISSO É UMA MODIFICAÇÃO [VELHO]");
-        
-        System.out.println("Mas olha pra isso!!! [MASTER]");
-        System.out.println("Isso é uma adição!! [VELHO]");
-        System.out.println("Quem ele pensa que é????");
+        System.out.println("Será que muitos mesmo???");
     }
 }

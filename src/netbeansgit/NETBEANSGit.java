@@ -24,5 +24,7 @@ public class NETBEANSGit {
         
         System.out.println("Fazendo alteração em outro ponto, na verdade adição agora mas vai virar adição [BRANCH]");
         System.out.println("Mais coisa!!!");
+        
+        System.out.println("Aqui só o novo! [VELHO]");
     }
 }
