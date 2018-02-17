@@ -11,9 +11,10 @@ package netbeansgit;
  */
 public class OlhaArquivoNOVO {
     public static void main(String[] args) {
-        System.out.println("QUE COISA NÃO?!?!");
+        System.out.println("ISSO AQUI TAMBÉM É MODIFICÁVEL [NOVO]");
         
-        System.out.println("Mas olha pra isso!!! [MASTER]");
+        System.out.println("OLHA QUE DELÍCIA QUE É MODIFICAR AS COISAS[NOVO]");
+        System.out.println("E ADICIONAR NO MESMO LUGAR QUE O CONTIGO [NOVO]");
         System.out.println("Quem ele pensa que é????");
     }
 }

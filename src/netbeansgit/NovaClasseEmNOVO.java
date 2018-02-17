@@ -9,10 +9,8 @@ package netbeansgit;
  *
  * @author lc-soz
  */
-public class MaisUmaMASTER {
+public class NovaClasseEmNOVO {
     public static void main(String[] args) {
-        System.out.println("Mais uma porque eu sou desses! [MASTER]");
-        
-        System.out.println("Aqui só o velho [VELHO]");
+        System.out.println("Veremos quantos problemas teremos [NOVO]");
     }
 }
