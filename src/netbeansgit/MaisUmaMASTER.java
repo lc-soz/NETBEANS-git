@@ -9,11 +9,8 @@ package netbeansgit;
  *
  * @author lc-soz
  */
-public class OlhaArquivoNOVO {
+public class MaisUmaMASTER {
     public static void main(String[] args) {
-        System.out.println("QUE COISA NÃO?!?!");
-        
-        System.out.println("Mas olha pra isso!!! [MASTER]");
-        System.out.println("Quem ele pensa que é????");
+        System.out.println("Mais uma porque eu sou desses! [MASTER]");
     }
 }
